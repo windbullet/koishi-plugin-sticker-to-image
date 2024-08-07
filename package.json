@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-sticker-to-image",
   "description": "把QQ的表情包转换成图片发出来，解决了表情无法保存的问题",
-  "version": "0.2.1",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -15,6 +15,6 @@
     "plugin"
   ],
   "peerDependencies": {
-    "koishi": "^4.16.4"
+    "koishi": "^4.17.9"
   }
 }
